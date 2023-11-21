@@ -11,7 +11,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>Push notifications demo.</p>
           <button className="App-link" onClick={subscribeUser}>
-            Subscribe To Push Notification
+            Subscribe To Push Notifications
           </button>
         </header>
       </div>
